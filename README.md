@@ -7,6 +7,7 @@ A nice and fun mod to allow yourself to have every cosmetic in the game. This in
 Allow expressing yourself to be a choice! The current cosmetics you have I bet are boring! What about looking like a fingerpainter? Maybe a moderator?
 
 This mod is client-sided, meaning only you, and people who have the mod, will see it.
+
 ![image](https://github.com/user-attachments/assets/6e7270b8-bb6e-41ea-b23d-c73aeaf13126)
 
 # Links

@@ -15,6 +15,7 @@ This mod is client-sided, meaning only you, and people who have the mod, will se
 Remember, this is just a remake. I just rewrote the code to make it work in publics, and also deleted some stuff that conflicted with the code.
 
 Original by dedouwe26
+
 Remake by ciperuoy
 
 # Links

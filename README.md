@@ -10,18 +10,18 @@ This mod is client-sided, meaning only you, and people who have the mod, will se
 
 ![image](https://github.com/user-attachments/assets/6e7270b8-bb6e-41ea-b23d-c73aeaf13126)
 
-# Links
-[Gorilla Tag's Official Discord Server](https://discord.gg/gorillatag)
-
-[Gorilla Tag's Modding Group](https://discord.gg/monkemod)
-
-[My LinkTree!](https://linktr.ee/ciperuoy)
-
 # Additional
 
 Remember, this is just a remake. I just rewrote the code to make it work in publics, and also deleted some stuff that conflicted with the code.
 
 Original by dedouwe26
 Remake by ciperuoy
+
+# Links
+[Gorilla Tag's Official Discord Server](https://discord.gg/gorillatag)
+
+[Gorilla Tag's Modding Group](https://discord.gg/monkemod)
+
+[My LinkTree!](https://linktr.ee/ciperuoy)
 
 :)
